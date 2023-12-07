@@ -15,4 +15,8 @@ module com.example.qlchamcong {
     exports com.example.qlchamcong.thanhdieuhuongqlns;
     exports com.example.qlchamcong.importdlcc;
     exports com.example.qlchamcong.qlnshome;
+    exports com.example.qlchamcong.service;
+    opens com.example.qlchamcong.service to javafx.fxml;
+    exports com.example.qlchamcong.repository;
+    opens com.example.qlchamcong.repository to javafx.fxml;
 }

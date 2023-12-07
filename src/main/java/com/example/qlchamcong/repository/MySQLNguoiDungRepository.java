@@ -1,6 +1,5 @@
-package com.example.qlchamcong.dangnhap;
+package com.example.qlchamcong.repository;
 
-import com.example.qlchamcong.database.DatabaseConnector;
 import com.example.qlchamcong.entity.NguoiDung;
 
 import java.sql.Connection;

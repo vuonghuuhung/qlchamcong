@@ -1,5 +1,6 @@
-package com.example.qlchamcong.dangnhap;
+package com.example.qlchamcong.service;
 
+import com.example.qlchamcong.repository.INguoiDungRepository;
 import com.example.qlchamcong.entity.NguoiDung;
 import com.example.qlchamcong.entity.VaiTro;
 
